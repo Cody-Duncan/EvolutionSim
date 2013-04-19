@@ -3,6 +3,8 @@ EvolutionSim
 
 A simulation of evolutionary effects using pixels as organisms, utilizing logic based on the Hardy-Weinberg model.
 
+Programmed in C# on the XNA 4.0 framework.
+
 ----------------------------------------------------------------------
 
 
