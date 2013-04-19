@@ -7,7 +7,9 @@ A simulation of evolutionary effects using pixels as organisms, utilizing logic 
 
 
 ##Premise
-When running the screen shows a square of varied colored pixels buzzing about. These pixels are little “organisms” (kind of like digital organisms) that are mating and creating a new population of organisms 30 times a second. 
+When running the screen shows a square of varied colored pixels buzzing about. 
+These pixels are little “organisms” (kind of like digital organisms) that are mating and creating 
+a new population of organisms 30 times a second, or so. 
 
 ##Representation of DNA and genes
 Each pixel has a digital DNA made of genes that give varying intensities the 4 colors Red, Green, Blue, Alpha(Transparency).   
