@@ -1,0 +1,24 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvolutionSim", "EvolutionSim\EvolutionSim.csproj", "{A39BC1E4-78FB-409F-9E93-A7C1DF7B2842}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvolutionSimContent", "EvolutionSimContent\EvolutionSimContent.contentproj", "{3FA5AB35-5825-40C4-ABB8-81A815E278BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A39BC1E4-78FB-409F-9E93-A7C1DF7B2842}.Debug|x86.ActiveCfg = Debug|x86
+		{A39BC1E4-78FB-409F-9E93-A7C1DF7B2842}.Debug|x86.Build.0 = Debug|x86
+		{A39BC1E4-78FB-409F-9E93-A7C1DF7B2842}.Release|x86.ActiveCfg = Release|x86
+		{A39BC1E4-78FB-409F-9E93-A7C1DF7B2842}.Release|x86.Build.0 = Release|x86
+		{3FA5AB35-5825-40C4-ABB8-81A815E278BB}.Debug|x86.ActiveCfg = Debug|x86
+		{3FA5AB35-5825-40C4-ABB8-81A815E278BB}.Release|x86.ActiveCfg = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
